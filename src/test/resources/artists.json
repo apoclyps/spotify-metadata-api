@@ -1,0 +1,144 @@
+{
+
+    "info": {
+        "num_results": 26,
+        "limit": 100,
+        "offset": 0,
+        "query": "foo",
+        "type": "artist",
+        "page": 1
+    },
+    "artists": [
+        {
+            "href": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD",
+            "name": "Foo Fighters",
+            "popularity": "0.65162"
+        },
+        {
+            "href": "spotify:artist:68X7EQtVYHuUAYoFilK3wE",
+            "name": "Kommil Foo",
+            "popularity": "0.17294"
+        },
+        {
+            "href": "spotify:artist:0mFqct8cXcVTp2Zl1KsEtt",
+            "name": "Pitbull Featuring Red Foo, Vein & David Rush",
+            "popularity": "0.14354"
+        },
+        {
+            "href": "spotify:artist:2Oi3mmkapgdIQtx1SdFJBx",
+            "name": "Foo Kit Yan",
+            "popularity": "0.00129"
+        },
+        {
+            "href": "spotify:artist:1eUkfJuU4CVdtMXSwgWqrP",
+            "name": "Foo Yun Guang",
+            "popularity": "0.00051"
+        },
+        {
+            "href": "spotify:artist:7qiLrKoGb00lbCSBkJGKoU",
+            "name": "Francisco Foo",
+            "popularity": "0.00001"
+        },
+        {
+            "href": "spotify:artist:7q2059FlMO4oJKF7Qy8hUc",
+            "name": "Jun Fan Gung Foo",
+            "popularity": "0.00000"
+        },
+        {
+            "href": "spotify:artist:7BwOCTBw5XiJ7ZG2xIL8u8",
+            "name": "Karaoke - Foo Fighters",
+            "popularity": "0.00219"
+        },
+        {
+            "href": "spotify:artist:6iEinlrmGT9lMfK0DujCbT",
+            "name": "Kung Foo",
+            "popularity": "0.00042"
+        },
+        {
+            "href": "spotify:artist:2TNOr8MZ3zzjKxg4pgQpgR",
+            "name": "Foo",
+            "popularity": "0.00429"
+        },
+        {
+            "href": "spotify:artist:3p79QQCiu1IVlmT027XhuU",
+            "name": "Mei Yi Foo",
+            "popularity": "0.00021"
+        },
+        {
+            "href": "spotify:artist:40PrhCEaf2WsLaoUQgiZKv",
+            "name": "Kung Foo Preacher",
+            "popularity": "0.00002"
+        },
+        {
+            "href": "spotify:artist:08h0HmFljdjnIXpaARHbgu",
+            "name": "Foo Foo Click",
+            "popularity": "0.00014"
+        },
+        {
+            "href": "spotify:artist:6AcNCnxChWevoeQ3RCNNXV",
+            "name": "Alley Foo",
+            "popularity": "0.00000"
+        },
+        {
+            "href": "spotify:artist:3cKNTokaE0pqLjn8aRPx7z",
+            "name": "Foo Ensemble",
+            "popularity": "0.00000"
+        },
+        {
+            "href": "spotify:artist:5ubdtgTMIQ7hPogoDTDMum",
+            "name": "Egg Foo Young",
+            "popularity": "0.00002"
+        },
+        {
+            "href": "spotify:artist:52zbDqBv1tuK1bG5XL60sf",
+            "name": "Kung Foo Grip",
+            "popularity": "0.00012"
+        },
+        {
+            "href": "spotify:artist:1Z2SMSicr9ipCqRGE4oWN2",
+            "name": "360Graus & Eduardo Foo",
+            "popularity": "0.00000"
+        },
+        {
+            "href": "spotify:artist:0YM0VkBAhvdNWG3AyFLu0D",
+            "name": "360Graus & Eduardo Foo feat. Eduardo Foo",
+            "popularity": "0.00000"
+        },
+        {
+            "href": "spotify:artist:50n1Ur4QWBlteiNGZ2LDg0",
+            "name": "Edu Foo",
+            "popularity": "0.00009"
+        },
+        {
+            "href": "spotify:artist:0nR8PKdHBzD17SPAUTB1RI",
+            "name": "MeeWee feat. Kung Foo Kid",
+            "popularity": "0.00000"
+        },
+        {
+            "href": "spotify:artist:2wMaMD3sR58wd26tbDDHhu",
+            "name": "Ha-Foo",
+            "popularity": "0.00009"
+        },
+        {
+            "href": "spotify:artist:3C1Hh05M8jHohaNCGgmv0o",
+            "name": "Sharin Foo",
+            "popularity": "0.00643"
+        },
+        {
+            "href": "spotify:artist:16clxclFVBuiVgQI3tfmwg",
+            "name": "Ft. Savant Foo",
+            "popularity": "0.00001"
+        },
+        {
+            "href": "spotify:artist:33Xa6v7vdU5mMJX6dyesvy",
+            "name": "Killer On The Dancefloor Feat. Holger, Antonio Eudi & Edu Foo",
+            "popularity": "0.00002"
+        },
+        {
+            "href": "spotify:artist:0DvIOGSp2Wu2KSgDr3WQ1n",
+            "name": "Brain Foo Long And Mathieu Le Manson",
+            "popularity": "0.00004"
+        }
+    ]
+
+}
