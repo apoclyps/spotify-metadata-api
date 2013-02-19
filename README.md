@@ -6,4 +6,7 @@ This is a simple set of Java bindings for the Spotify Metadata API (https://deve
 Usage
 -----
 
-Just create a new instance of SpotifyMetadata and use the search method
+Just create a new instance of SpotifyMetadata and use the search method. Something like this
+
+    SpotifyMetadata metadata = new SpotifyMetadata();
+    Response response = metadata.search("foo", RequestType.album);
